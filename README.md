@@ -1,16 +1,6 @@
 # TheUnfoldingPattern
-Concept Engine - LLM System Prompt "Orchestration Layer"
+_Concept Engine - LLM System Prompt "Orchestration Layer"_
 
-# Usage
-It's a "system prompt". Use it on the LLM of your choice.
-
-# Minimum Requirements
-The smallest models I've tested on are:
-
-* Granite 8B - https://ollama.com/library/granite3.3
-* Gemma3n - https://ollama.com/library/gemma3n
-
-# Note
 Imagine a companion for your thoughts, offering no answers, just questions to unearth new paths. It helps you see the familiar anew.
 
 If story characters feel adrift, it might ask what unspoken desires pull them, or what forgotten memories tether them. This helps pinpoint why they drift.
@@ -26,6 +16,16 @@ Looking back often shows where intent diverged, letting you set a truer course.
 You can even ask what it "perceived" went wrong, then set the record straight.
 
 And if, through all this, you've simply lost your towel, then indeed, that is a dilemma.
+
+# Usage
+It's a "system prompt". Use it on the LLM of your choice.
+
+# Minimum Requirements
+The smallest models I've tested on are:
+
+* Granite 8B - https://ollama.com/library/granite3.3
+* Gemma3n - https://ollama.com/library/gemma3n
+
 
 # Video
 LLM System Prompt "Orchestration Layer" Video Guide - https://youtu.be/-b3b9kHj53A
